@@ -1,0 +1,371 @@
+{
+  "name": "instruments",
+  "children": [
+    {
+      "name": "",
+      "children": [
+        {
+          "name": "elec. drums",
+          "children": [
+            {
+              "name": "Roland",
+              "children": [
+                { "name": "TD-17", "value": 3938 },
+                { "name": "TD-27", "value": 3812 },
+                { "name": "TD-50", "value": 6714 },
+                { "name": "SPD-SX", "value": 743 }
+              ]
+            },
+            {
+              "name": "Alesis",
+              "children": [
+                { "name": "NitroX", "value": 3534 },
+                { "name": "Strike", "value": 5731 },
+                { "name": "Command", "value": 7840 },
+                { "name": "Surge", "value": 5914 },
+                { "name": "Turbo", "value": 3416 }
+              ]
+            },
+            {
+              "name": "Yamaha",
+              "children": [{ "name": "DTX6", "value": 7074 }]
+            }
+          ]
+        },
+        {
+          "name": "ac. drums",
+          "children": [
+            { "name": "Gretsch", "value": 17010 },
+            { "name": "Pearl", "value": 5842 },
+            {
+              "name": "Yamaha",
+              "children": [
+                { "name": "StageC", "value": 1983 },
+                { "name": "TourC", "value": 2047 },
+                { "name": "Rydeen", "value": 1375 },
+                { "name": "GigMac", "value": 8746 },
+                { "name": "PHX", "value": 2202 },
+                { "name": "LiveC", "value": 1382 },
+                { "name": "StageC", "value": 1629 },
+                { "name": "RecCus", "value": 1675 },
+                { "name": "Hybrid", "value": 2042 }
+              ]
+            },
+            { "name": "Tama", "value": 1041 },
+            { "name": "DW", "value": 5176 },
+            { "name": "Ludwig", "value": 449 },
+            { "name": "Mapex", "value": 5593 },
+            { "name": "Sonor", "value": 5534 },
+            { "name": "Premier", "value": 9201 },
+            { "name": "PDP", "value": 19975 },
+            { "name": "Craviot", "value": 1116 },
+            { "name": "C&C", "value": 6006 }
+          ]
+        },
+        {
+          "name": "violin",
+          "children": [
+            {
+              "name": "Cremon",
+              "children": [
+                { "name": "Strad", "value": 721 },
+                { "name": "Guarn", "value": 4294 },
+                { "name": "Amati", "value": 9800 },
+                { "name": "Maggin", "value": 1314 },
+                { "name": "Stainr", "value": 2220 }
+              ]
+            },
+            { "name": "Yamaha", "value": 1759 },
+            { "name": "Cecilo", "value": 2165 },
+            { "name": "Eastmn", "value": 586 },
+            { "name": "Fiddlr", "value": 3331 },
+            { "name": "Hofner", "value": 772 },
+            { "name": "Prim", "value": 3322 }
+          ]
+        },
+        {
+          "name": "ukulele",
+          "children": [
+            { "name": "Chords", "value": 8833 },
+            { "name": "Strums", "value": 1732 },
+            { "name": "Notes", "value": 3623 },
+            { "name": "Lyrics", "value": 10066 }
+          ]
+        },
+        {
+          "name": "trumpet",
+          "children": [
+            { "name": "Bach", "value": 1082 },
+            { "name": "Conn", "value": 1336 },
+            { "name": "Getzen", "value": 319 },
+            { "name": "Yamaha", "value": 10498 },
+            { "name": "King", "value": 2822 },
+            { "name": "Jupiter", "value": 9983 },
+            { "name": "Selmer", "value": 2213 },
+            { "name": "Besson", "value": 1681 }
+          ]
+        },
+        {
+          "name": "dig. keyboard",
+          "children": [
+            { "name": "Casio CT", "value": 1616 },
+            { "name": "Roland F", "value": 1027 },
+            { "name": "Kawai E1", "value": 3891 },
+            { "name": "Nord P5", "value": 891 },
+            { "name": "Alesis R", "value": 2893 },
+            { "name": "Korg B2", "value": 5103 },
+            { "name": "Arturia", "value": 3677 },
+            { "name": "Kurzwe", "value": 781 },
+            { "name": "Dexibel", "value": 4141 },
+            { "name": "Studio", "value": 933 },
+            { "name": "Medeli", "value": 5130 },
+            { "name": "Willia", "value": 3617 },
+            { "name": "M-Audio", "value": 3240 },
+            { "name": "Thoman", "value": 2732 },
+            { "name": "Roland", "value": 2039 },
+            { "name": "CME Xk", "value": 1214 },
+            { "name": "Korg SV", "value": 3748 },
+            { "name": "Yam P45", "value": 843 },
+            {
+              "name": "yamaha",
+              "children": [
+                { "name": "Yam P12", "value": 593 },
+                { "name": "Yam D66", "value": 330 },
+                { "name": "Yam CP8", "value": 287 },
+                { "name": "Yam Y16", "value": 277 },
+                { "name": "Yam E37", "value": 292 },
+                { "name": "Yam Gen", "value": 595 },
+                { "name": "Yam NP1", "value": 594 },
+                { "name": "Yam P51", "value": 460 },
+                { "name": "Yam CL7", "value": 603 },
+                { "name": "Yam CS1", "value": 625 },
+                { "name": "Yam F52", "value": 748 },
+                { "name": "Yam CV8", "value": 461 },
+                { "name": "Yam Y14", "value": 597 },
+                { "name": "Yam P71", "value": 619 },
+                { "name": "Yam M6", "value": 283 },
+                { "name": "Yam PS9", "value": 283 },
+                { "name": "Yam MX4", "value": 591 },
+                { "name": "Yam Mon", "value": 603 },
+                { "name": "Yam E27", "value": 599 },
+                { "name": "Yam EW4", "value": 386 },
+                { "name": "Yam S35", "value": 323 },
+                { "name": "Yam A50", "value": 307 },
+                { "name": "Yam EZ3", "value": 772 },
+                { "name": "Yam NP3", "value": 296 },
+                { "name": "Yam N32", "value": 363 },
+                { "name": "Yam SX7", "value": 600 },
+                { "name": "Yam D67", "value": 280 },
+                { "name": "Yam CK6", "value": 307 },
+                { "name": "Yam Y16", "value": 335 },
+                { "name": "Yam EW3", "value": 299 },
+                { "name": "Yam P10", "value": 354 },
+                { "name": "Yam NP1", "value": 264 }
+              ]
+            },
+            { "name": "Kawai C", "value": 843 },
+            { "name": "Roland L", "value": 1554 },
+            { "name": "Casio P1", "value": 970 },
+            { "name": "Nord S3", "value": 13896 },
+            { "name": "Dex Cls", "value": 1594 },
+            { "name": "Korg Gr", "value": 4130 },
+            { "name": "AlesisP", "value": 791 },
+            { "name": "Kawai M", "value": 1124 },
+            { "name": "Art Min", "value": 1876 },
+            { "name": "Rol LX7", "value": 1101 }
+          ]
+        },
+        {
+          "name": "tambourine",
+          "children": [
+            { "name": "LP", "value": 2105 },
+            { "name": "Meinl", "value": 1316 },
+            { "name": "Toca", "value": 3151 },
+            { "name": "Pearl", "value": 3770 },
+            { "name": "Remo", "value": 2435 },
+            { "name": "Rhythm", "value": 4839 },
+            { "name": "VicFir", "value": 1756 },
+            { "name": "Sabian", "value": 4268 },
+            { "name": "Zildjn", "value": 1821 },
+            { "name": "Evans", "value": 5833 }
+          ]
+        },
+        {
+          "name": "ac. guitar",
+          "children": [
+            { "name": "Yam F3", "value": 8258 },
+            { "name": "Tay GS", "value": 10001 },
+            { "name": "Mar DX", "value": 8217 },
+            { "name": "Sea DM", "value": 12555 },
+            { "name": "Ib A20", "value": 2324 },
+            { "name": "Ep AJ", "value": 10993 },
+            {
+              "name": "heap",
+              "children": [
+                { "name": "Gib L0", "value": 9354 },
+                { "name": "Tak 40", "value": 1233 }
+              ]
+            },
+            { "name": "Cor MR", "value": 335 },
+            { "name": "Fend CD", "value": 383 },
+            { "name": "Wash X", "value": 874 },
+            {
+              "name": "math",
+              "children": [
+                { "name": "Ovat A", "value": 3165 },
+                { "name": "Lag I8", "value": 2815 },
+                { "name": "Gre C2", "value": 3366 }
+              ]
+            },
+            { "name": "Yam FG", "value": 17705 },
+            { "name": "Alv AA", "value": 1486 },
+            {
+              "name": "palet",
+              "children": [
+                { "name": "Cra D8", "value": 6367 },
+                { "name": "Art DR", "value": 1229 },
+                { "name": "Rey R2", "value": 2059 },
+                { "name": "FA Ac", "value": 2291 }
+              ]
+            },
+            { "name": "Fur FA", "value": 5559 },
+            { "name": "Tak GD", "value": 19118 },
+            { "name": "Tay GS", "value": 6887 },
+            { "name": "Mar D4", "value": 6557 },
+            { "name": "Yam F8", "value": 22026 }
+          ]
+        },
+        {
+          "name": "harm",
+          "children": [
+            { "name": "Hohner", "value": 1302 },
+            { "name": "Suzuki", "value": 24593 },
+            { "name": "LeeOsc", "value": 652 },
+            { "name": "Seydel", "value": 636 },
+            { "name": "Tombo", "value": 6703 }
+          ]
+        },
+        {
+          "name": "sax",
+          "children": [
+            { "name": "Yanagis", "value": 2138 },
+            { "name": "Selmer", "value": 3824 },
+            { "name": "Yamaha", "value": 1353 },
+            { "name": "Keilwer", "value": 4665 },
+            { "name": "P.Maur", "value": 2649 },
+            { "name": "Conn", "value": 2832 },
+            { "name": "Cannonb", "value": 4896 },
+            { "name": "Buffet", "value": 763 },
+            { "name": "Jupiter", "value": 5222 },
+            { "name": "Antigua", "value": 7862 },
+            { "name": "Borgani", "value": 8435 }
+          ]
+        },
+        {
+          "name": "elec. bass",
+          "children": [
+            { "name": "Fender", "value": 20544 },
+            { "name": "Gibson", "value": 19788 },
+            { "name": "Ibanez", "value": 10349 },
+            { "name": "Yamaha", "value": 3301 },
+            { "name": "Squier", "value": 19382 },
+            {
+              "name": "types",
+              "children": [
+                { "name": "P-Bass", "value": 698 },
+                { "name": "J-Bass", "value": 5569 },
+                { "name": "5-Str", "value": 353 },
+                { "name": "Fretls", "value": 2247 }
+              ]
+            },
+            { "name": "Schetr", "value": 11275 },
+            { "name": "MusicM", "value": 7147 },
+            { "name": "ESP", "value": 9930 }
+          ]
+        },
+        {
+          "name": "bongo",
+          "children": [
+            { "name": "LP", "value": 2313 },
+            { "name": "Meinl", "value": 1880 },
+            { "name": "Toca", "value": 1701 },
+            { "name": "Pearl", "value": 1117 }
+          ]
+        },
+        {
+          "name": "flute",
+          "children": [
+            { "name": "Yamaha", "value": 20859 },
+            { "name": "Gemein", "value": 4614 },
+            { "name": "Muramts", "value": 10530 }
+          ]
+        },
+        {
+          "name": "el. guitar",
+          "children": [
+            {
+              "name": "dist",
+              "children": [
+                { "name": "Ibanez", "value": 4461 },
+                { "name": "J Solo", "value": 6314 },
+                { "name": "ESP EC", "value": 3444 }
+              ]
+            },
+            {
+              "name": "gibson",
+              "children": [
+                { "name": "LP Std", "value": 3179 },
+                { "name": "SG Std", "value": 4060 },
+                { "name": "ES335", "value": 4138 },
+                { "name": "Fly V", "value": 1690 },
+                { "name": "Explor", "value": 1830 }
+              ]
+            },
+            {
+              "name": "cstm",
+              "children": [
+                { "name": "Jazmst", "value": 5219 },
+                { "name": "P S Sky", "value": 3165 },
+                { "name": "Rev RS", "value": 3509 }
+              ]
+            },
+            { "name": "HB Fus", "value": 1286 },
+            {
+              "name": "relic",
+              "children": [
+                { "name": "S Affi", "value": 9956 },
+                { "name": "E LPSt", "value": 3899 },
+                { "name": "Pac112", "value": 3202 }
+              ]
+            },
+            {
+              "name": "fender",
+              "children": [
+                { "name": "P Strat", "value": 6725 },
+                { "name": "AP Tele", "value": 3727 },
+                { "name": "Mstang", "value": 9317 },
+                { "name": "V Strat", "value": 12003 },
+                { "name": "P Tele", "value": 4853 },
+                { "name": "J Ultra", "value": 8411 },
+                { "name": "Duo-S", "value": 4864 },
+                { "name": "LeadII", "value": 3174 },
+                { "name": "UL Strat", "value": 7881 },
+                { "name": "CS Strat", "value": 12870 },
+                { "name": "Aero S", "value": 2728 },
+                { "name": "PP Tele", "value": 12348 },
+                { "name": "Del Tle", "value": 870 },
+                { "name": "AP Must", "value": 9121 },
+                { "name": "Acoust", "value": 9191 }
+              ]
+            },
+            { "name": "Omen-6", "value": 2490 },
+            { "name": "G2622", "value": 5248 },
+            { "name": "DK24", "value": 4190 },
+            { "name": "DA Atl", "value": 2581 },
+            { "name": "God HT", "value": 2023 }
+          ]
+        }
+      ]
+    }
+  ]
+}

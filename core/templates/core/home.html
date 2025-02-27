@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Charts with D3 - Interactive Data Visualizations">
+    <title>Charts with D3</title>
+    {% load static %}
+    <link rel="icon" href="{% static 'images/favicon.ico' %}" />
+    <link rel="stylesheet" href="{% static 'css/home.css' %}">
+    <!-- Meta tags for SEO and Social Media -->
+    <meta property="og:title" content="Charts with D3">
+    <meta property="og:description" content="Explore interactive data visualizations with D3.js">
+    <meta property="og:image" content="{% static 'images/share-image.jpg' %}">
+  </head>
+  <body>
+    <h1>Select a Chart</h1>
+    <p>Click on a button to select the type of chart you want to visualize.</p>
+
+    <div class="button-container">
+      <a href="{% url 'chart1' %}" class="button" aria-label="Chart 1">
+        <div class="button-icon">📊</div>
+        Chart 1
+      </a>
+      <a href="{% url 'chart2' %}" class="button" aria-label="Chart 2">
+        <div class="button-icon">📈</div>
+        Chart 2
+      </a>
+      <a href="{% url 'chart3' %}" class="button" aria-label="Chart 3">
+        <div class="button-icon">📉</div>
+        Chart 3
+      </a>
+    </div>
+  </body>
+</html>

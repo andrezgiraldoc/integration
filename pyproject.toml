@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "integration"
+version = "0.1.0"
+description = "Django, React, D3.js integration"
+authors = ["Andres Giraldo <andrezgiraldoc@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<4.0"
+django = "^5.1.6"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

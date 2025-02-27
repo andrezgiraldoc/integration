@@ -1,0 +1,12 @@
+.chart-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.chart-title {
+  margin-bottom: 15px;
+  font-size: 1.25rem;
+  font-weight: 500;
+  color: #555;
+  font-family: 'Arial', sans-serif;
+}

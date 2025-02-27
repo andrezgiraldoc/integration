@@ -1,0 +1,52 @@
+# Node.js (React)
+node_modules/
+build/
+dist/
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Django
+*.pyc
+__pycache__/
+*.sqlite3
+db.sqlite3
+media/
+staticfiles/
+.env
+*.log
+
+# Editor (Visual Studio Code)
+.vscode/
+*.code-workspace
+
+# MacOS
+.DS_Store
+
+# Python
+*.pyo
+*.pyd
+*.swp
+.Python
+*.coverage
+.coverage.*
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+venv.bak/
+
+# Miscellaneous
+.idea/
+*.bak
+Thumbs.db
