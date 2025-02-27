@@ -14,6 +14,8 @@ The application uses:
 
 The home page uses a Django template to display navigation buttons, redirecting users to React components for interactive data visualizations.
 
+To obtain the data used in the D3.js visualizations, the application makes HTTP requests to a Django view endpoint (sales_data). This endpoint simulates a database query by serving data from a static JSON file
+
 ## Project Structure
 - **`config/`**: Configuration and setup files for the Django project.
 - **`core/`**: Main application logic for the backend, including API endpoints for serving data.
